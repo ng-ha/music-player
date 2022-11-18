@@ -59,6 +59,7 @@
     border-radius: 10px;
     color:#ccc;
     display: none;
+    z-index: 2;
   }
   .modal.open {
     display: block;
