@@ -132,6 +132,7 @@
     max-width: 480px;
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
+    z-index: 1;
   }
   .dashboard.darkmode {
     background-color: var(--darkmode-background-color);
