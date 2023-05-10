@@ -19,6 +19,7 @@
 - Active song
 - Scroll active song into view
 - Play song when click
+- Dark mode
 
 ### Technologies ✨
 
