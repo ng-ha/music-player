@@ -1,6 +1,7 @@
 # Music Player written in Vanilla JS :headphones:
 
-![Music-Player](./github-images/whatsapp-ng-ha.png)
+![music-player-dark-mode](./github-images/music-player-dark-mode.png)
+![music-player-light-mode](./github-images/music-player-light-mode.png)
 
 ### Link Demo 📌
 
@@ -8,15 +9,21 @@
 
 ### Features :computer:
 
-- Realtime chat 1-1 with anyone using Google email address
-- Authentication with **Google**
+- Render songs
+- Scroll Top
+- Play/Pause/Seek
+- CD rotate
+- Next/Prev
+- Random
+- Next/Prev when ended
+- Active song
+- Scroll active song into view
+- Play song when click
 
 ### Technologies ✨
 
-- Typescipt
-- NextJs
-- Material UI & styled-components
-- Authentication & Database with Firebase
+- Vanilla Javascript
+- HTML/CSS
 
 ### License :right_anger_bubble:
 
